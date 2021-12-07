@@ -2,3 +2,8 @@ C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgbsdfghsdfghbs
 C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgbsdfghsdfghbsdfgbfs\bin\Debug\netcoreapp3.1\Bor.DataAccess.dll
 C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfoInputs.cache
 C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgbsdfghsdfghbsdfgbfs\bin\Debug\netcoreapp3.1\Bor.DataAccess.deps.json
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgbsdfghsdfghbsdfgbfs\bin\Debug\netcoreapp3.1\Bor.DataAccess.dll
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfo.cs
