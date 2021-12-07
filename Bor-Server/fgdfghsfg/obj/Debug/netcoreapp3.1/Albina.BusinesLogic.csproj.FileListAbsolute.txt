@@ -1,0 +1,4 @@
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgdfghsfg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.deps.json
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgdfghsfg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.dll
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfoInputs.cache
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfo.cs

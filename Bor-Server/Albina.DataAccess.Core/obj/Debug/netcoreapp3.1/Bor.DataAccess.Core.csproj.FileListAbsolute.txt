@@ -1,0 +1,6 @@
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.csprojAssemblyReference.cache
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.AssemblyInfo.cs
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\bin\Debug\netcoreapp3.1\Bor.DataAccess.Core.deps.json
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Albina.DataAccess.Core\bin\Debug\netcoreapp3.1\Bor.DataAccess.Core.dll

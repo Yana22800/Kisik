@@ -1,0 +1,2 @@
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Bor.DataAccess\obj\Debug\Bor.DataAccess.csprojAssemblyReference.cache
+C:\Users\titov\Documents\GitHub\PS122019-AlbinaServer\Bor-Server\Bor.DataAccess\obj\Debug\Bor.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3Q4lZk+gIq56D2GRjfq691d/sWGeUQ5g2nibMmS/StU6CijVxrfpZ/+IfGn7+9nn7jfWFdMuhl1vJ0uU98v/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Shareds\\Shareds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\titov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\titov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
