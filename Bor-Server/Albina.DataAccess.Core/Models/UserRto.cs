@@ -12,8 +12,8 @@ namespace Bor.DataAccess.Core.Models
         [Key] public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
-        [Required] public string PhoneNumberPrefix { get; set; }
-        [Required] public string PhoneNumber { get; set; }
+        [Required] public int PhoneNumberPrefix { get; set; }
+        [Required] public int PhoneNumber { get; set; }
         [Required, MinLength(7)] public string Password { get; set; }
         public string ImageUrl { get; set; }
         #endregion

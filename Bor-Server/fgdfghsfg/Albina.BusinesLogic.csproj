@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Albina.DataAccess.Core\Bor.DataAccess.Core.csproj" />
     <ProjectReference Include="..\sfgsg\Albina.BusinesLogic.Core.csproj" />
+    <ProjectReference Include="..\Share\Shareds.csproj" />
   </ItemGroup>
 
 </Project>

@@ -7,3 +7,4 @@ C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgdfghsfg\bin\Debug\netcor
 C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.csproj.CoreCompileInputs.cache

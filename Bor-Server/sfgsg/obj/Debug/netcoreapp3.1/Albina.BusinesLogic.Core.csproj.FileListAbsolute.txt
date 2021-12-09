@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Kisik\Bor-Server\sfgsg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.pdb
