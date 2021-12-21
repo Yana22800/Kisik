@@ -6,7 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="UmbracoCms.Core" Version="8.17.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Albina.DataAccess.Core\Bor.DataAccess.Core.csproj" />
+    <ProjectReference Include="..\fgdfghsfg\Albina.BusinesLogic.csproj" />
+    <ProjectReference Include="..\fgsdfgf\Bor.Core.csproj" />
+    <ProjectReference Include="..\sfgsg\Albina.BusinesLogic.Core.csproj" />
   </ItemGroup>
 
 
